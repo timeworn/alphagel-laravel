@@ -1,0 +1,281 @@
+@media (max-width: 374px) {
+	section.section07 .btn.btn-custom {
+	    padding: 10px 23px;
+	}
+	section.Footer .btn-flags {
+	    width: 94%;
+	}
+	.package-icon.col-4 img.package-icon-03 {
+	    margin-top: -8px;
+	    margin-right: 10px;
+	    width: 90px;
+	}
+	.package-icon.col-4 img.package-icon-02 {
+	    width: 88px;
+	}
+	.package-icon.col-4 img.package-icon-01 {
+	    width: 100px;
+	}
+	section.Footer .dropdown-menu.show {
+	    width: 99%;
+	}
+	section.section07 .logo-wrapper img.content-logo {
+	    width: 154px;
+	}
+	section.section07 h3.Fold-head01 {
+	    font-size: 19px;
+	}
+	h1.Fold-head02 {
+	    line-height: 26px;
+	    font-size: 24px;
+	}
+	section.section07 .mediaBox-wrapper .media-body h4 {
+	    font-size: 15px;
+	}
+	section.section07 img.sec07-img {
+	    bottom: -10px;
+	    right: -27px;
+	    width: 124px;
+	}
+	.btn.btn-custom {
+	    margin-top: 10px;
+	    font-size: 25px;
+	    padding: 10px 21px;
+	}
+	section.OrderNow .btn-wrapper .btn-action {
+	    margin-top: 38px;
+	}
+	h4.onHead01 {
+	    line-height: 25px;
+	    font-size: 25px;
+	}
+	section.offers .info01-wrapper h6.info01 {
+	    font-size: 12px;
+	    padding: 8px 18px;
+	}
+	h6.sec07-head03-p {
+	    margin-top: 0px;
+	    font-size: 19px;
+	}
+	h5.sec07-head2 {
+	    font-size: 25px;
+	}
+	section.offers .sec07-bundle-01 .sec07-head05-wrap h4 {
+    	font-size: 12px;
+	}
+	h2.sec07-head04 {
+	    line-height: 40px;
+	    padding-right: 20px;
+	    font-size: 36px !important;
+	}
+	section.offers .btn.btn-custom {
+	    padding: 4px 27px;
+	    font-size: 14px;
+	}
+	h2.sec07-head04 span.sp1 {
+	    line-height: 29px;
+	    font-size: 21px;
+	}
+	section.section06 h1.sec06title01 {
+	    line-height: 38px;
+	    font-size: 38px;
+	}
+	section.section06 h3.sec06title02 {
+	    font-size: 17px;
+	    margin-top: 5px;
+	    padding: 0 40px;
+	}
+	img.sec04-img-03 {
+	    width: 122px;
+	}
+	.sec04-media-wrapper {
+	    margin-bottom: 20px;
+	    padding-right: 0px;
+	    width: 84%;
+	}
+	img.img02 {
+	    left: 106px;
+	    top: 101px;
+	    width: 59px;
+	}
+	section.section04 h1.title01 {
+	    line-height: 37px;
+	    font-size: 37px;
+	}
+	.sec02-headings-float-wrapper {
+	    position: absolute;
+	    right: 108px;
+	    top: 126px;
+	}
+	section.section02 h1.sec02-head01 {
+	    line-height: 38px;
+	    font-size: 39px;
+	}
+	section.section01 .img-tablet-mobile img {
+	    width: 411px;
+	}
+	section.section01 .sec01-head02-img-wrapper img.head02-img {
+	    width: 51%;
+	}
+	section.section01 .images-wrap:after {
+	    background-size: 134px;
+	}
+	section.section01 .sec01-media-wrap h5 {
+	    font-size: 13px;
+	}
+	section.section01 .head06-02 h3 {
+	    font-size: 18px;
+	}
+	section.section01 .head06-03 h4 {
+	    font-size: 20px;
+	}
+	section.section01 .sec01-head02 h1 {
+	    line-height: 44px;
+	    font-size: 57px;
+	}
+	section.section01 .sec01-head03:after {
+	    background-size: 277px;
+	    left: 7%;
+	}
+	section.aboveTheFold h1.Fold-head02 {
+	    line-height: 25px;
+	    font-size: 25px;
+	}
+	section.aboveTheFold h2.Fold-head03 {
+	    padding-right: 0px;
+	    line-height: 27px;
+	    font-size: 29px;
+	}
+	section.aboveTheFold .logo-wrapper-center-02 img.logo-center-01 {
+	    width: 66px;
+	}
+	section.aboveTheFold .logo-wrapper-center-02 img.logo-center-02 {
+	    width: 57px;
+	}
+	section.aboveTheFold .logo-wrapper-center-02 img.logo-center-03 {
+	    width: 52px;
+	}
+	section.aboveTheFold .mediaBox-wrapper .media-body h4 {
+	    font-size: 13px;
+	    letter-spacing: 0px;
+	    padding-top: 6px;
+	}
+	section.aboveTheFold .mediaBox-wrapper .media {
+	    margin: 0px 0;
+	}
+	section.aboveTheFold .Fold-head-wrap01 {
+	    padding-left: 86px;
+	}
+	section.aboveTheFold img.content-img-02 {
+	    right: -89px;
+	    width: 102px;
+	    top: 179px;
+	}
+	section.checkout img.content-logo {
+	    margin-top: 12px;
+	    width: 141px;
+	}
+	section.checkout .logo-wrapper-center img.logo-center-01 {
+	    width: 47px;
+	}
+	section.checkout .logo-wrapper-center img.logo-center-02 {
+	    margin-left: -3px;
+	    width: 42px;
+	}
+	section.checkout .logo-wrapper-center img.logo-center-03 {
+	    margin-left: 2px;
+	    width: 39px;
+	}
+	.prgress-wrapper.text-center img.mobileImg26 {
+		width: 264px;
+	}
+	section.checkout .progress-title .left h6 {
+	    width: 65px;
+	}
+	section.checkout .prgress-wrapper h6 {
+	    font-size: 12px;
+	}
+	section.checkout .ckOffer-heading h3.ckOfferHead01 {
+	    line-height: 28px;
+	    font-size: 25px;
+	}
+	section.checkout h3.ck04-head02 {
+	    line-height: 33px;
+	    font-size: 35px;
+	}
+	section.checkout section.offers .sec07-bundle-01 .sec07-head05-wrap h4 {
+	    font-size: 12px;
+	}
+	section.checkout .sec07-head05-wrap {
+	    margin: 4px auto;
+	}
+	section.checkout section.offers h2.sec07-head04.left {
+	    font-size: 39px !important;
+	}
+	section.checkout section.offers h6.sec07-head03-p {
+	    font-size: 18px;
+	}
+	.checkOut-form-wrapper1 h3.formHead2 {
+	    font-size: 17px;
+	    width: 61%;
+	    margin-top: 3px;
+	}
+	small.form-text.text-muted {
+	    font-size: 12px;
+	}
+	section.checkout .form-head-wrap02 h3.head02-wrap02 {
+	    line-height: 21px;
+	    font-size: 21px;
+	}
+	section.checkout .form-head-wrap02 h5.totalAmount {
+	    font-size: 19px;
+	}
+	section.checkout .form-head-wrap02 h5.totalPrice {
+	    font-size: 22px;
+	    margin-top: -4px;
+	}
+	section.checkout .checkOutFormWrapper a.btn.btn-custom {
+	    font-size: 20px;
+	}
+	.checkOut-form-wrapper1 .bundles-info img {
+	    width: 35px;
+	}
+	section.terms img.content-logo {
+	    width: 144px;
+	    padding-left: 8px;
+	}
+	section.terms .logo-wrapper-center .logo-center-03 {
+	    width: 38px;
+	    margin-left: 0px;
+	}
+	section.terms .logo-wrapper-center .logo-center-02 {
+	    width: 42px;
+	    margin-left: -4px;
+	}
+	section.terms .logo-wrapper-center .logo-center-01 {
+	    width: 49px;
+	}
+	section.terms h3.Fold-head01 {
+	    font-size: 14px;
+	    line-height: 15px;
+	}
+	section.terms h1.Fold-head02 {
+	    line-height: 20px;
+	    font-size: 21px;
+	}
+	section.terms h2.Fold-head03 {
+	    line-height: 23px;
+	    font-size: 24px;
+	}
+	section.terms .btn.btn-custom {
+	    padding: 2px 23px;
+	    font-size: 17px;
+	    margin: 0;
+	}
+	.btn-icons.text-center img {
+	    width: auto;
+	}
+	section.terms .par-wrapper {
+	    padding: 0 22px;
+	}
+}
